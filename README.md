@@ -20,4 +20,4 @@ git clone https://github.com/JISAN-404/PUBLIC-V2.git
 
 cd PUBLIC-V2
 
-python Fire.py
+python Firev2.py
